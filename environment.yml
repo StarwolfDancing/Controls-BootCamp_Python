@@ -1,0 +1,15 @@
+# Create environment: `conda env create -f environment.yml`
+
+name: ControlBootcamp
+
+channels:
+- defaults
+- conda-forge
+
+dependencies:
+# Python, jupyter
+- python>=3.10
+- jupyterlab
+
+# Rest
+- numpy
