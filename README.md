@@ -27,3 +27,4 @@ All Copyrights for videos and content belong to Steve Brunton
 ## Open Points
 1. Video
     - Missing images: `State Space equations`
+    - ...
