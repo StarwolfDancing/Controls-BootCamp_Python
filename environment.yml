@@ -8,7 +8,8 @@ channels:
 
 dependencies:
 # Python, jupyter
-- python>=3.10
+- python==3.11.*
+- ipykernel
 - jupyterlab
 
 # Rest

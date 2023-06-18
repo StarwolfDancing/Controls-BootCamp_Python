@@ -17,6 +17,7 @@ Feel free to make changes by sending a pull request. Collaborators are welcome
 All Copyrights for videos and content belong to Steve Brunton 
 
 ## Changes
+- Make notebook as similar to the video as possible
 - Replacment of most html in markdown cells with markdown, as good as possible.
 - Adding missing plots (if possible screenshots from video), e.g. open/closed loop in first notebook.
 - Adding plots (if possible screenshots from video), e.g. control types in first notebook.
