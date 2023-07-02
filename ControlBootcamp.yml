@@ -1,4 +1,4 @@
-# Create environment: `conda env create -f environment.yml`
+# Create environment: `conda env create --file ControlBootcamp.yml`
 
 name: ControlBootcamp
 
