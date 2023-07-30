@@ -13,5 +13,6 @@ dependencies:
 - jupyterlab
 - nb_conda_kernels
 
-# Rest
+# For video calculations
 - numpy
+- control
