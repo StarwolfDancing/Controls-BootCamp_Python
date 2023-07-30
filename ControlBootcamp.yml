@@ -11,6 +11,7 @@ dependencies:
 - python==3.11.*
 - ipykernel
 - jupyterlab
+- nb_conda_kernels
 
 # Rest
 - numpy
