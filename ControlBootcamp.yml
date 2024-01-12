@@ -13,6 +13,10 @@ dependencies:
 - jupyterlab
 - nb_conda_kernels
 
+# Octave (https://anaconda.org/conda-forge/octave_kernel)
+#- octave_kernel
+
 # For video calculations
 - numpy
+- scipy
 - control
