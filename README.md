@@ -30,6 +30,7 @@ All Copyrights for videos and content belong to Steve Brunton
 - Using html for images, to have better control, e.g. on the width of the image.
 - Python code refactoring
 - Adding questions, marked with `>`
+- Matlab code replaced with Python equivalent
 
 ## Open Points
 1. Video
