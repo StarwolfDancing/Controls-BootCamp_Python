@@ -21,3 +21,6 @@ dependencies:
 - scipy
 - control
 - sympy
+- pandas
+- plotly
+- ipympl
