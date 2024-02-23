@@ -1,4 +1,5 @@
-# Create environment: `conda env create --file ControlBootcamp.yml`
+# Micomamba is a very fast replacent for `conda` (https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html)
+# Create environment: `micomamba env create --file ControlBootcamp.yml`
 
 name: ControlBootcamp
 
@@ -13,14 +14,12 @@ dependencies:
 - jupyterlab
 - nb_conda_kernels
 
-# Octave (https://anaconda.org/conda-forge/octave_kernel)
-#- octave_kernel
-
 # For video calculations
 - numpy
+- pandas
 - scipy
 - control
 - sympy
-- pandas
 - plotly
+# `ipympl` enables using the interactive features of matplotlib in Jupyter Notebooks, Jupyter Lab, Google Colab, VSCode notebooks.
 - ipympl
