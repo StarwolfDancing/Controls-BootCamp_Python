@@ -1,5 +1,5 @@
 # Micomamba is a very fast replacent for `conda` (https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html)
-# Create environment: `micomamba env create --file ControlBootcamp.yml`
+# Create environment: `micomamba env create --file=ControlBootcamp.yml`
 
 name: ControlBootcamp
 

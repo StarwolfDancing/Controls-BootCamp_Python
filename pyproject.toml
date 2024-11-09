@@ -1,0 +1,18 @@
+[project]
+name = "controls-bootcamp-python"
+version = "0.1.0"
+description = "Control systems presentations covering the boot camp lectures by steve brunton"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "control>=0.10.1",
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.3.0",
+    "numpy>=2.1.3",
+    "sympy>=1.13.3",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "uv>=0.5.1",
+]
